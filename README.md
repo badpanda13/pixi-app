@@ -1,0 +1,1 @@
+Coin Game. You need to click on all coins to make them green. When you hover the cursor over a coin, it turns red while the cursor is on it, and the green highlighted color disappears. The number of clicked coins decreases because of this. This micro project was created to remember how to work with PixiJS.
